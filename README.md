@@ -19,9 +19,7 @@ PrepIQ is a real-time, full-stack AI voice interview platform built to help user
 
 ## Demo
 
-[**Live Preview**](#) â€” *(Deploy your project and replace this link)*
-
----
+https://interview-prep-seven-blush.vercel.app/
 
 ## Features
 
