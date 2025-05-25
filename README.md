@@ -1,4 +1,5 @@
-# PrepIQ â€“ AI-Powered Mock Interview Platform
+# PrepIQ
+AI-Powered Mock Interview Platform
 
 PrepIQ is a real-time, full-stack AI voice interview platform built to help users practice and improve their interview skills. It simulates realistic interview environments using intelligent voice agents and offers instant feedback and performance analytics. The project combines cutting-edge technologies like Next.js, Firebase, Tailwind CSS, and Vapi AI to deliver a modern, scalable, and highly interactive experience.
 
