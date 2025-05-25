@@ -14,7 +14,6 @@ PrepIQ is a real-time, full-stack AI voice interview platform built to help user
 - [Environment Variables](#environment-variables)
 - [Limitations](#limitations)
 - [Future Scope](#future-scope)
-- [Contributors](#contributors)
 
 ---
 
